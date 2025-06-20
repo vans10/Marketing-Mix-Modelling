@@ -2,6 +2,7 @@
 This is a Marketing Mix Modeling (MMM) project I completed during Spring 2025 at Babson College, where I analyzed two years of weekly data (2019–2020) for **Hope Street Cosmetics**, a luxury beauty brand. The objective was to evaluate marketing effectiveness, decompose sales drivers, and simulate ROI outcomes across channels using Python and Excel-based analysis.
 
 ---
+![image](https://github.com/user-attachments/assets/673ba258-2d8a-4662-b237-bdc5e44e7c24)
 
 ## About the Brand
 
