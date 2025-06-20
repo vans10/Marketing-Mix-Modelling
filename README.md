@@ -76,21 +76,21 @@ I engineered a **custom seasonal dummy variable** to represent **International W
 
 ##  Project Structure
 HopeStreet_MMM/
-│
-├── data/
-│ └── final_database.csv # Cleaned dataset
-│
-├── notebooks/
-│ └── Modeling Workbook.ipynb # Full regression model in Python
-│
-├── scripts/
-│ └── backend_v2.py # Custom adstock/lag modeling functions
-│
-├── analysis/
-│ └── Final Excel.xlsx # ROI simulation tool
-│
-└── presentation/
-└── Final_Presentation.pdf # Summary of findings
+# │
+# ├── data/
+# │ └── final_database.csv # Cleaned dataset
+# │
+# ├── notebooks/
+# │ └── Modeling Workbook.ipynb # Full regression model in Python
+# │ 
+# ├ ── scripts/
+# │ └── backend_v2.py # Custom adstock/lag modeling functions
+# │
+# ├── analysis/
+# │ └── Final Excel.xlsx # ROI simulation tool
+# │
+# └── presentation/
+# └── Final_Presentation.pdf # Summary of findings
 
 
 ---
